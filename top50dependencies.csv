@@ -1,0 +1,53 @@
+﻿Library,Dependent Projects,Total Dependencies,Recent Dependents,avg_dependency_depth,max_dependency_chain
+com.qvantel:jsonapi-scala-akka_2.12,"no changes, no records",,,,
+org.dellroad:dellroad-stuff-main,918,535,1.72255E+12,11.79847495,20
+org.wildfly.clustering:wildfly-clustering-context,62,116,1.72408E+12,6.951612903,10
+me.shaftesbury:Functional-Utils-Java,"no changes, no records",,,,
+org.opendaylight.yangtools:rfc8528-parser-support,429,2712,1.72459E+11,43.1002331,72
+dev.evo.elasticmagic:elasticmagic-serde-jackson-yaml,"no changes, no records",,,,
+io.getkyo:kyo-chatgpt_3,12,249,1.69868E+12,7.75,8
+com.google.cloud.spark:spark-bigquery-with-dependencies_2.12,197,371,1.72061E+12,34.82741117,57
+com.jwebmp.plugins.graphing:jwebmp-plugins-graphing-parent,"no changes, no records",,,,
+org.springframework.cloud:spring-cloud-commons,76309,1078,1.72484E+12,105.0273624,190
+com.innovenso.townplanner:innovenso-townplanner-io-charts_2.13,"no changes, no records",,,,
+io.7mind.izumi:logstage-api_sjs0.6_2.12,59,516,1.57939E+12,11.74576271,14
+com.microsoft.azure:azure-cosmosdb-gateway,72,269,1.64694E+12,13.19444444,27
+aws.sdk.kotlin:batch-jvm,"no changes, no records",,,,
+com.firebaseui:firebase-ui-database,17,42,1.66437E+12,3.058823529,4
+io.streamnative:pulsar-functions-secrets,1462,8323,1.7243E+12,25.10396717,38
+com.guicedee.services:guice-jmx,"no changes, no records",,,,
+org.springframework.boot:spring-boot-cli,610,4188,1.71855E+12,28,192
+io.spring.javaformat:spring-javaformat-formatter-eclipse-runtime,212,42,"	1724531218000",6.198113208,17
+net.optionfactory.spring:localized-enums,"no changes, no records",,,,
+io.leego:mypages,28,38,1.63254E+12,6.642857143,15
+org.wildfly:wildfly-clustering-web-cache,349,1139,1.7243E+12,108.6418338,490
+com.google.errorprone:error_prone_docgen,"no changes, no records",,,,
+uk.gov.gchq.gaffer:map-rest,3,1115,1.66377E+12,14.33333333,15
+org.apache.camel.springboot:camel-geocoder-starter,2,1018,1.57877E+11,647,647
+org.arquillian.universe:arquillian-rest-core,100,50,1.58228E+12,2,2
+org.apereo.cas:cas-server-core-api-audit,6132,18229,1.72319E+12,116.8507828,186
+com.telenav.kivakit:kivakit-primitive-collections,69,141,1.67711E+12,5.202898551,12
+com.bazaarvoice.emodb:emodb-job-api,1155,1001,1.72102E+12,30.85974026,114
+org.drewcarlson:mobiuskt-test-tvossimulatorarm64,"no changes, no records",,,,
+org.jboss.galleon.universe:galleon-universe,"no changes, no records",,,,
+org.alluxio:alluxio-examples,83,1782,1.71988E+12,19.89156627,22
+software.amazon.awssdk:panorama,1451,18907,1.7247E+12,165.2432805,389
+no.nav.common:cxf,362,12276,1.62565E+12,43.01933702,78
+eu.stratosphere:stratosphere,"no changes, no records",,,,
+com.github.rxyor:carp-redis,39,209,1.61069E+12,7.307692308,13
+io.nacular.doodle:desktop-jvm-windows-x64,"no changes, no records",,,,
+com.rlemaitre:pillars-db-doobie_3,"no changes, no records",,,,
+org.cogchar:org.cogchar.lib.integroid,15,49,1.47831E+12,15.6,19
+org.creativescala:doodle-explore_sjs0.6_2.12,21,231,1.58747E+12,14.71428571,15
+pl.allegro.tech.hermes:hermes-frontend,"no changes, no records",,,,
+com.jwebmp.plugins.javascript:jwebmp-soft-history-change,3,3245,1.56323E+12,99,99
+org.codehaus.sonar:sonar-plugin-api,3723,6344,1.57417E+12,8.365834005,33
+org.apache.camel:camel-swagger-java,910,2435,1.71835E+12,80.4978022,647
+com.benasher44:uuid-macosx64,543,21,1.72391E+12,6.94106814,14
+org.docx4j:docx4j-openxml-objects-pml,46,112,1.7235E+12,21.73913043,24
+com.google.api:gax,17941,2113,1.72479E+12,44.46318488,166
+org.mule.transports:mule-transport-jetty,257,761,1.52477E+12,20.64202335,55
+edu.gemini:lucuma-itc-client_sjs1_3,48,1185,1.72416E+12,"	11.604166666666668",12
+org.commonjava.indy:indy-folo-model-java,513,1014,1.72249E+12,68.82261209,370
+,,,,,
+AVERAGES: ,3261.485714,2624.457143,1.58015E+12,54.25104319,116.7428571
